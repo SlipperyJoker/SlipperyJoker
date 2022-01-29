@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SlipperyJoker
 - 👀 I’m interested in learning how to code on different platforms
 - 🌱 I’m currently learning a little Python
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on GitHub presently
 - 📫 How to reach me ...
 
 <!---
